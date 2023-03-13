@@ -1,0 +1,26 @@
+{
+  "name": "Karthik Hosur",
+  "title": "Software Engineer",
+  "description": "I am Karthik Hosur, currently working as a Research Software Engineer at the University of Illinois Chicago. I have experience in spearheading and deploying a multimodal data platform for automating clinical research using technologies like Django, Kafka, and Elasticsearch. Prior to this, I worked as a Software Engineer at Talentmicro Innovations LLC in Bengaluru, India, where I designed and developed a document parsing system using FastAPI and RabbitMQ. I also managed a successful process re-engineering project using ASP.NET and Angular. I have a Master of Science in Computer Science from the University of Illinois Chicago and a Bachelor of Engineering in Computer Science from Visvesvaraya Technological University. My technical skills include programmiing languages like Python, Java, and Javascript and databases like PostgreSQL, Elasticsearch, etc. I have also worked on several projects, including a URL Shortener Web Application and a real-time Polling Application.",
+  "thumbnail": "karthik-hosur.png",
+  "social": [
+    {
+      "name": "Linkedin",
+      "url": "https://linkedin.com/in/karthikhosur"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/karthikhosur"
+    },
+    {
+      "name": "Website",
+      "url": "https://karthikhosur.com"
+    }
+  ],
+  "skills": [
+    "Software Engineer",
+    "Backend Engineer",
+    "NLP Engineer",
+    "Data Engineer"
+  ]
+}
